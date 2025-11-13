@@ -46,7 +46,7 @@ public class MainActivity3 extends AppCompatActivity {
         webView.addJavascriptInterface(new JSBridge(this), "AndroidBridge");
 
         // 加载远程网页
-         webView.loadUrl("https://www.baidu.com");
+         webView.loadUrl("http://www.st0ck.xyz:8080/intro");
 
         // 或加载本地网页（放在 assets 目录）
 //        webView.loadUrl("file:///android_asset/index.html");
