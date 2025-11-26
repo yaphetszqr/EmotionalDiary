@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.miracle.emotionaldiary
 
 import org.junit.Test
 

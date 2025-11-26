@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.miracle.emotionaldiary;
 
 import android.os.Bundle;
 
@@ -13,7 +13,7 @@ import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
-import com.example.myapplication.databinding.ActivityMainBinding;
+import com.miracle.emotionaldiary.databinding.ActivityMainBinding;
 
 public class MainActivity2 extends AppCompatActivity {
 

@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.myapplication"
+    namespace = "com.miracle.emotionaldiary"
     compileSdk {
         version = release(36)
     }
